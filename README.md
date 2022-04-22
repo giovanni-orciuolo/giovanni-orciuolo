@@ -6,6 +6,6 @@
 - :mortar_board: Bachelor Degree in Computer Engineering at [PoliBA](http://www.poliba.it/)
 - 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques)
 - 🚀 Favorite languages: TypeScript, Go, Kotlin, Dart, C/C++
-- 🌱 Learning: Go, Elixir, Rust, Solidity (and blockchain/web3 tech stacks in general)
+- 🌱 Learning: Go, Elixir, Rust (& CosmWasm contracts)
 - ✨ My hobbies: game hacking, reverse engineering, playing and making games, anime & manga
 - :it: I live in Italy, but I'm very fluent in English 🇬🇧
