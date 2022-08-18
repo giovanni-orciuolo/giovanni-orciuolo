@@ -6,7 +6,7 @@
 
 - 👉 [CV HERE](https://cdn.or2.life/p/resume.pdf)
 - 🏢 Working at [Overzoom](https://overzoom.it) (Head Software Engineer)
-- :mortar_board: Bachelor Degree in Computer Engineering at [PoliBA](http://www.poliba.it/)
+- :mortar_board: Bachelor Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
 - 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques)
 - 🚀 Favorite languages: TypeScript, Go, Kotlin, Dart, C/C++
 - 🌱 Learning: Go, Elixir, Rust (& CosmWasm contracts)
