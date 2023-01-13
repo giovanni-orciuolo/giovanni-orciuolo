@@ -2,8 +2,6 @@
 
 ### Welcome to my profile 👋
 
-#![ghstats](https://github-readme-stats.vercel.app/api?username=giovanni-orciuolo&count_private=true&show_icons=true&theme=discord_old_blurple)
-
 - 👉 [CV HERE](https://cdn.or2.life/p/resume.pdf)
 - 🏢 Working at [Overzoom](https://overzoom.it) (Head Software Engineer)
 - :mortar_board: Bachelor Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
