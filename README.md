@@ -5,7 +5,7 @@
 - 👉 [CV HERE](https://cdn.or2.life/p/resume.pdf)
 - 🏢 Working at [Overzoom](https://overzoom.it) (Lead Software Engineer)
 - :mortar_board: Bachelor Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
-- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). I also kinda know GraphQL too.
+- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). I also kinda know GraphQL too. And that boomer dogshit that people sometimes call "SOAP".
 - 🚀 Favorite languages: Rust, Go ,TypeScript, Kotlin, Dart, C/C++ (with smart pointers)
 - 🌱 Learning: AWS, Elixir
 - ✨ My hobbies: game hacking, reverse engineering, playing and making games, anime & manga
