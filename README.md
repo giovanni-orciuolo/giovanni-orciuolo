@@ -10,7 +10,7 @@
 - 🚀 Favorite languages: Rust, Go ,TypeScript, Kotlin, Dart, C/C++ (with smart pointers)
 - 🌱 Learning: Cloud Computing, AWS, Elixir
 - ✨ Contributor and firm believer of open source projects and culture: [Winglang](https://www.winglang.io/)
-- 🛠️ Dev-Ops knowledge: Docker, Kubernetes, Nginx & Traefik,
+- 🛠️ Dev-Ops knowledge: Docker, Kubernetes, Nginx & Traefik, Terraform
 - 🖌️ Front-End knowledge: Angular, React, Next.js. I ♥️ Svelte & Tailwind.css!
 - 🎮 My hobbies: game hacking, reverse engineering, playing and making videogames, anime & manga
 - 🇬🇧 C1 level English fluency (Cambridge English's FCE)
