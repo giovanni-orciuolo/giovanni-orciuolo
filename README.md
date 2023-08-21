@@ -13,4 +13,4 @@
 - 🛠️ Dev-Ops knowledge: Docker, Kubernetes, Nginx & Traefik, Terraform
 - 🖌️ Front-End knowledge: Angular, React, Next.js. I ♥️ Svelte & Tailwind.css!
 - 🎮 My hobbies: game hacking, reverse engineering, playing and making videogames, anime & manga
-- 🇬🇧 C1 level English fluency (Cambridge English's FCE)
+- 🇬🇧 English knowledge level: C1 (Cambridge English's FCE)
