@@ -6,7 +6,7 @@
 - 🏢 Working at [Overzoom](https://overzoom.it) (Lead Software Engineer)
 - 🏫 Studying for Master's Degree in Computer Science & Engineering at [Polytechnic University of Milan](https://polimi.it/)
 - :mortar_board: Bachelor's Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
-- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). Familiar with GraphQL too. And that dogshit that people sometimes refer to as "SOAP".
+- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). Familiar with GraphQL too
 - 🚀 Favorite languages: Rust, Go, TypeScript, Kotlin, C/C++
 - 🌱 Learning: Cloud Computing, AWS, Elixir
 - ✨ Contributor and firm believer of open source projects and culture (e.g. [Winglang](https://www.winglang.io/))
