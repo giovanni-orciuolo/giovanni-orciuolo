@@ -3,7 +3,7 @@
 ### Welcome to my profile 👋
 
 - 👉 [CV HERE](https://cdn.or2.life/p/resume.pdf)
-- 🏢 Working at [Overzoom](https://overzoom.it) (Lead Software Engineer)
+- 🏢 Working at [Overzoom](https://overzoom.it) (Senior Software Engineer)
 - 🏫 Studying for Master's Degree in Computer Science & Engineering at [Polytechnic University of Milan](https://polimi.it/)
 - :mortar_board: Bachelor's Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
 - 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). Familiar with GraphQL too
