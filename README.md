@@ -9,7 +9,7 @@
 - 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). Familiar with GraphQL too
 - 🚀 Favorite languages: Rust, Go, TypeScript, Kotlin, C/C++
 - 🌱 Learning: Cloud Computing, AWS, Elixir, Racket, Haskell, Erlang
-- ✨ Contributor and firm believer of open source projects and culture (e.g. [Winglang](https://www.winglang.io/))
+- ✨ Contributor and firm believer of open source projects and culture
 - 🛠️ Dev-Ops knowledge: Docker, Kubernetes, Nginx & Traefik, Terraform
 - 🖌️ Front-End knowledge: Angular, React, Next.js. I ♥️ Svelte & Tailwind.css!
 - 🎮 My hobbies: game hacking, reverse engineering, playing and making videogames, anime & manga
