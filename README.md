@@ -6,7 +6,7 @@
 - 🏢 Working at [Overzoom](https://overzoom.it) (Senior Software Engineer)
 - 🏫 Studying for Master's Degree in Computer Science & Engineering at [Polytechnic University of Milan](https://polimi.it/)
 - :mortar_board: Bachelor's Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
-- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques). Familiar with GraphQL too
+- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques)
 - 🚀 Favorite languages: Rust, Go, TypeScript, Kotlin, C/C++
 - 🌱 Learning: Cloud Computing, AWS, Elixir, Racket, Haskell, Erlang
 - ✨ Contributor and firm believer of open source projects and culture
