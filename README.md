@@ -6,11 +6,12 @@
 - 🏢 Working at [Overzoom](https://overzoom.it) (Senior Software Engineer)
 - 🏫 Studying for Master's Degree in Computer Science & Engineering at [Polytechnic University of Milan](https://polimi.it/)
 - :mortar_board: Bachelor's Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
-- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD approaches and techniques)
-- 🚀 Favorite languages: Rust, Go, TypeScript, Kotlin, C/C++
-- 🌱 Learning: Cloud Computing, AWS, Elixir, Racket, Haskell, Erlang
+- 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD techniques/approaches)
+- 🚀 Favorite languages: Go, TypeScript, Rust, Kotlin, C/C++ (std::unique_ptr is my lord and saviour)
+- 🌱 Learning: Distributed Systems, Offensive/Defensive Cybersecurity, Cloud Computing, Process & Service Architecture Design
+- 🛠️ Dev-Ops knowledge: Docker, K8s, Nginx, Traefik, Terraform. Not very fond of YAML
+- 🖌️ Front-End knowledge: Angular, React, Next.js, Solid, Vue. I ♥️ Svelte & Tailwind.css!
 - ✨ Contributor and firm believer of open source projects and culture
-- 🛠️ Dev-Ops knowledge: Docker, Kubernetes, Nginx & Traefik, Terraform
-- 🖌️ Front-End knowledge: Angular, React, Next.js. I ♥️ Svelte & Tailwind.css!
-- 🎮 My hobbies: game hacking, reverse engineering, playing and making videogames, anime & manga
-- 🇬🇧 English knowledge level: C1 (Cambridge English's FCE)
+- 🎮 My hobbies: Playing and making videogames, game hacking, reverse engineering, anime & manga. I spend an embarrassingly high amount of time in front of a screen
+- 🇬🇧 English knowledge level: C1 (Cambridge English)
+- 🌐 Checkout my website! https://giovanni.orciuolo.it
