@@ -14,4 +14,4 @@
 - ✨ Contributor and firm believer of open source projects and culture
 - 🎮 My hobbies: Playing and making videogames, game hacking, reverse engineering, anime & manga. I spend an embarrassingly high amount of time in front of a screen
 - 🇬🇧 English knowledge level: C1 (Cambridge English)
-- 🌐 Checkout my website! https://giovanni.orciuolo.it
+- 🌐 Check out my website! https://giovanni.orciuolo.it
