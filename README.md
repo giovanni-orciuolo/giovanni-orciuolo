@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=6000&width=400&height=30&lines=Hi!+My+name+is+Giovanni.;I'm+a+Software+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=6000&width=400&height=30&lines=Hi!+My+name+is+Giovanni.;I'm+a+Senior+Software+Engineer.)](https://git.io/typing-svg)
 
 ### Welcome to my profile 👋
 
