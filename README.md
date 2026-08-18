@@ -12,6 +12,6 @@
 - 🛠️ Dev-Ops knowledge: Docker, K8s, Nginx, Traefik, Terraform. Not very fond of YAML
 - 🖌️ Front-End knowledge: Angular, React, Next.js, Solid, Vue. I ♥️ Svelte & Tailwind.css!
 - ✨ Contributor and firm believer of open source projects and culture
-- 🎮 My hobbies: Playing and making videogames, game hacking, reverse engineering, anime & manga.
-- 🇬🇧 English knowledge level: C1 (Cambridge English)
-- 🌐 Check out my website! https://giovanni.orciuolo.it
+- 🎮 My hobbies: [Playing](https://steamcommunity.com/id/Orciuolo/) and [making](https://gx.games/studios/d431fe3d-1c43-4cda-a9be-59789ee14213/) videogames, [game hacking](https://www.unknowncheats.me/forum/counterstrike-global-offensive/183526-cs-cheat-101-a.html), [reverse engineering](https://www.unknowncheats.me/forum/counterstrike-global-offensive/240066-cs-beams-demystified.html), [anime & manga](https://anilist.co/user/Wolfrost/).
+- 🇬🇧 English knowledge level: C1 (Cambridge English Certificate - FCE)
+- 🌐 Check out my website and projects! https://giovanni.orciuolo.it
