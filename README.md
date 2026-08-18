@@ -7,7 +7,7 @@
 - 🏫 Studying for Master's Degree in Computer Science & Engineering at [Polytechnic University of Milan](https://polimi.it/)
 - :mortar_board: Bachelor's Degree in Computer Engineering at [Polytechnic University of Bari](http://www.poliba.it/)
 - 🎯 Specialized in: Backend REST API development, testing and deployment (with CI/CD techniques/approaches)
-- 🚀 Favorite languages: Go, TypeScript, Rust, Kotlin, C/C++ (std::unique_ptr is my lord and saviour)
+- 🚀 Favorite languages: Go, TypeScript, Rust, Kotlin, C/C++ (`std::unique_ptr` FTW)
 - 🌱 Learning: Distributed Systems, Offensive/Defensive Cybersecurity, Cloud Computing, Process & Service Architecture Design
 - 🛠️ Dev-Ops knowledge: Docker, K8s, Nginx, Traefik, Terraform. Not very fond of YAML
 - 🖌️ Front-End knowledge: Angular, React, Next.js, Solid, Vue. I ♥️ Svelte & Tailwind.css!
